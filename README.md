@@ -1,9 +1,3 @@
-Here is the **clean, professional, copy-paste–ready `README.md`** for your **Hollow_House_Standards_Library** repo.
-
-Just paste this directly into your repo’s `README.md`.
-
----
-
 # 📘 **Hollow House Standards Library**
 
 ### Ethical AI • Research Standards • Certification Criteria
@@ -103,13 +97,3 @@ Hollow_House_Standards_Library/
 For licensing, certification, or collaboration inquiries:
 **Hollow House Institute — Founder: Amy Pierce Bui**
 
----
-
-If you want, I can also generate:
-
-✔ A matching `Standards_Overview.md`
-✔ Certification criteria templates
-✔ SVG banner for this repo
-✔ SEO-optimized repo description
-
-Just tell me **"make the rest"**.
