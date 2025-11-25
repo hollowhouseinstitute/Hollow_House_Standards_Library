@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | Hollow House Institute</title>
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  </head>
+
+  <body>
+    <div style="display:flex;">
+
+      <!-- Sidebar -->
+      <nav style="width:220px;padding:20px;border-right:1px solid #ddd;">
+        <h3>Navigation</h3>
+        <ul style="list-style:none;padding-left:0;">
+          <li><a href="../01_Start_Here.md">Start Here</a></li>
+          <li><a href="../mission.md">Mission</a></li>
+          <li><a href="../methodology.md">Methodology</a></li>
+          <li><a href="../dataset_overview.md">Dataset Overview</a></li>
+          <li><a href="../ethics_and_privacy.md">Ethics & Privacy</a></li>
+          <li><a href="../institute_structure.md">Institute Structure</a></li>
+        </ul>
+      </nav>
+
+      <!-- Content -->
+      <main style="flex-grow:1;padding:40px;">
+        {{ content }}
+      </main>
+
+    </div>
+  </body>
+</html>

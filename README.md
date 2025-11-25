@@ -1,23 +1,15 @@
-# Hollow House Institute  
+# Hollow House Institute
+*A professional research ecosystem for relational psychology, human–AI interaction, and affective computing.*
+
+This is the primary home repository for the Hollow House Institute.  
+Start with: **docs/01_Start_Here.md**
+
+## Repository Structure
 
 
-#!/usr/bin/env bash
+## License
+CC BY-NC-SA 4.0
 
-echo "=== Creating Hollow House Standards Library local repo ==="
-
-TARGET="/c/Users/amy/Documents/Hollow_House/hollowhouse_Hollow_House_Standards_Library"
-
-mkdir -p "$TARGET"
-cd "$TARGET" || { echo "❌ Folder not found: $TARGET"; exit 1; }
-
-mkdir -p docs
-mkdir -p legal
-mkdir -p assets/diagrams
-mkdir -p projects
-
-cat > README.md << 'EOF'
-# Hollow House Standards Library  
-Ethical AI • Research Standards • Certification Criteria  
-**Hollow House Institute**
-
-This repository holds the ethical standards, certification frameworks, and governance documentation for the Hollow House Institute.
+## Citation
+Pierce Bui, A. (2025). Hollow House Institute: Research Ecosystem Overview.
+GitHub: https://github.com/hollowhouseinstitute/Hollow_House_Institute

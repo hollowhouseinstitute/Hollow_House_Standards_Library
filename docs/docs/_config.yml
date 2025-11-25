@@ -1,0 +1,16 @@
+title: Hollow House Institute
+description: Relational psychology, humanAI interaction, affective computing.
+theme: jekyll-theme-minimal
+markdown: GFM
+
+# Enable sidebar nav
+include:
+  - sidebar
+
+nav:
+  - Start Here: "01_Start_Here.md"
+  - Mission: "mission.md"
+  - Methodology: "methodology.md"
+  - Dataset Overview: "dataset_overview.md"
+  - Ethics & Privacy: "ethics_and_privacy.md"
+  - Institute Structure: "institute_structure.md"
