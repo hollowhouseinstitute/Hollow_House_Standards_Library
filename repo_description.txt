@@ -1,1 +1,1 @@
-hollowhouse_Hollow_House_Institute — Part of the Hollow House Institute ecosystem.
+Hollow_House_Standards_Library — Central documentation and protocol suite for the Hollow House Institute ecosystem. Defines formatting, metadata, and ethical standards for relational psychology datasets, nervous-system research, and AI-human co-regulation models. Includes schema references, README templates, and licensing structures to ensure consistency and compliance across all repositories.
