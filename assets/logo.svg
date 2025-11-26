@@ -1,4 +1,65 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-<rect width="200" height="200" fill="#111"/>
-<text x="100" y="110" fill="#fff" font-size="22" text-anchor="middle">HHS Library</text>
+<svg width="240" height="60" viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hhiTitle hhiDesc">
+  <title id="hhiTitle">Hollow House Institute</title>
+  <desc id="hhiDesc">Minimal logo with a stylized house and doorway flame plus wordmark</desc>
+
+  <!-- Background (transparent) -->
+  <rect x="0" y="0" width="240" height="60" fill="none"/>
+
+  <!-- House / Hollow House icon -->
+  <!-- Roof + walls -->
+  <polygon
+    points="10,50 10,26 35,10 60,26 60,50"
+    fill="none"
+    stroke="#111111"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Doorway -->
+  <rect
+    x="30"
+    y="30"
+    width="12"
+    height="20"
+    fill="none"
+    stroke="#111111"
+    stroke-width="2"
+    rx="2"
+  />
+
+  <!-- Flame inside the doorway -->
+  <path
+    d="M36 44
+       C34 41, 34 38, 36 35
+       C38 37, 39 39, 39 41
+       C39 43, 38 45, 36 46
+       C35 45, 35 44, 36 44 Z"
+    fill="#ff6a00"
+    stroke="#111111"
+    stroke-width="0.8"
+  />
+
+  <!-- Wordmark -->
+  <text
+    x="80"
+    y="28"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="14"
+    font-weight="600"
+    letter-spacing="2"
+    fill="#111111"
+  >
+    HOLLOW HOUSE
+  </text>
+
+  <text
+    x="80"
+    y="44"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="11"
+    letter-spacing="1.8"
+    fill="#555555"
+  >
+    INSTITUTE
+  </text>
 </svg>
