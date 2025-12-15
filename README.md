@@ -1,6 +1,9 @@
 # Hollow House Institute  
 ## Standards & Frameworks Library
 
+Licensed institutional standards for ethical AI, relational intelligence, and governed human–AI interaction analysis.
+
+This repository contains non-software intellectual property developed by Hollow House Institute for research, governance, and licensed analytical use.
 This repository contains the official standards, frameworks, and methodological documents developed and maintained by Hollow House Institute.
 
 The materials in this library define structured, governed approaches to ethical AI analysis, relational intelligence, human–AI interaction review, and identity protection.
