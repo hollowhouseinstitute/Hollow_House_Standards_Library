@@ -1,6 +1,10 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-This license governs the use of all materials contained in the Hollow House Institute Standards Library.
+This license governs all materials contained in the Hollow House Institute Standards Library.
+
+Unless explicitly stated otherwise, materials are licensed for non-commercial research, documentation, and institutional review only.
+
+Commercial, operational, or applied use requires separate authorization and agreement.
 
 Unless otherwise specified, materials are licensed for non-commercial research, documentation, and institutional review only.
 
