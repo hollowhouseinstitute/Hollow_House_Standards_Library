@@ -1,46 +1,8 @@
-Hollow House Standards Library
+Hollow House Institute Standards Library
 
-This repository contains licensed standards, frameworks, and methodological documents developed and maintained by Hollow House Institute.
+Licensed standards, frameworks, and methodological documents for ethical AI governance, relational intelligence analysis, and governed human–AI interaction review.
 
-The materials in this library define structured approaches to:
-- ethical AI analysis
-- relational intelligence assessment
-- governed human–AI interaction review
-- identity protection methodologies
-- analytical auditing frameworks
-- vector mapping concepts, pipelines, and workflows
+This repository is not software and provides no automation or executable systems.
 
-This repository is not a software product.
-It does not provide automation, executable systems, or deployed services.
+Use is non-commercial by default. Commercial or applied use requires explicit authorization.
 
-All contents are provided as research, governance, and analytical reference materials intended for:
-- academic research
-- institutional review
-- ethical evaluation
-- documentation and benchmarking
-
-Unless explicitly stated otherwise, all materials are governed under Hollow House Institute licensing terms.
-Use is non-commercial by default.
-Commercial, operational, or applied use requires explicit authorization and licensing.
-
-Prohibited uses include, but are not limited to:
-- surveillance or profiling systems
-- coercive or manipulative applications
-- automated behavioral prediction
-- clinical, therapeutic, or diagnostic use
-- training proprietary models without authorization
-
-This repository does not provide:
-- medical advice
-- psychological or therapeutic services
-- legal certification or compliance determinations
-- predictions about individuals or outcomes
-
-All interpretations and applications of these materials remain the responsibility of the user.
-
-For licensing, institutional access, datasets, services, or audits, refer to:
-https://github.com/hollowhouseinstitute
-or the Hollow House Institute licensing portal.
-
-Hollow House Institute
-Ethical AI · Relational Intelligence · Governed Analysis
