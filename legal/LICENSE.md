@@ -1,4 +1,12 @@
-# License  
+# Hollow House Institute — License Notice
+
+This license governs all materials contained in the Hollow House Institute Standards Library.
+
+All materials are provided as non-software intellectual property, including standards, frameworks, methodologies, and governance documentation.
+
+Use is non-commercial by default.
+
+Commercial, operational, applied, or derivative use — including use in products, services, internal tooling, or proprietary systems — requires explicit# License  
 **SPDX-License-Identifier:** CC-BY-NC-SA-4.0  
 
 ---
