@@ -1,112 +1,87 @@
-# Hollow House Institute
-*A professional research ecosystem for relational psychology, human–AI interaction, and affective computing.*
+# Hollow House Institute  
+## Standards & Frameworks Library
 
-This is the primary home repository for the Hollow House Institute.  
-Start with: **docs/01_Start_Here.md**
+This repository contains the official standards, frameworks, and methodological documents developed and maintained by Hollow House Institute.
 
-## Repository Structure
-
-# 📘 **Hollow House Standards Library**
-
-### Ethical AI • Research Standards • Certification Criteria
-
-## License
-CC BY-NC-SA 4.0
-
-## Citation
-Pierce Bui, A. (2025). Hollow House Institute: Research Ecosystem Overview.
-GitHub: https://github.com/hollowhouseinstitute/Hollow_House_Institute
-
-**Hollow House Institute**
-Founder: **Amy Pierce Bui**
-
-the **Hollow House Standards Library** serves as the central repository for all **ethical standards, certification frameworks, governance structures, and compliance documents** developed by the Hollow House Institute.
-
-These standards support the development of **nervous-system aware, field-aware, and relationally intelligent AI systems**, ensuring that all tools, datasets, and research outputs maintain the highest level of ethical integrity and psychological safety.
-
-## 📚 Contents of This Repository
-
-This library contains foundational documents that guide:
-
-### **1. Ethical AI Development**
-
-Standards for:
-
-* Safe emotional interaction
-* Trauma-informed system design
-* Nervous-system considerate responses
-* Non-manipulative communication practices
-
-### **2. Certification Criteria**
-
-Benchmarks for evaluating:
-
-* AI relational safety
-* Dataset suitability
-* Emotional & somatic intelligence models
-* Governance compliance
-
-### **3. Governance Frameworks**
-
-Documentation covering:
-
-* Usage boundaries
-* Safety guidelines
-* Institute-wide research ethics
-* Compliance models and enforcement
-
-### **4. Cross-Institute Standards**
-
-Standards referenced across:
-
-* RAP (Relational AI Psychology)
-* Field cognition research
-* Somatic & nervous-system frameworks
-* Codex & symbolic archives
+The materials in this library define structured, governed approaches to ethical AI analysis, relational intelligence, human–AI interaction review, and identity protection.
 
 ---
 
-## 🔐 Licensing
+## Scope of Materials
 
-This repository is protected under the **Hollow House Master License Suite**, including:
+Materials in this repository address:
 
-* AHRL-1 — AI–Human Relations Research License
-* RAP-DL 1.0 — Relational AI Psychology Data License
-* FBCR-1 — Field-Based Cognition Research License
-* Flame Stewardship License 444-A
-* TCDPL-4.4 — Temple Codex Data Protection License
+- ethical and relational AI governance
+- human–AI interaction analysis
+- identity protection principles
+- analytical and ethical audit methodologies
+- vector mapping concepts, pipelines, and workflows
+- documentation and benchmarking standards
 
-See the **`legal/`** folder for license summaries.
-
----
-
-## 📁 Folder Structure
-
-```
-Hollow_House_Standards_Library/
-│
-├── docs/
-│   ├── Standards_Overview.md
-│   ├── Certification_Criteria.md
-│   └── Contact.md
-│
-├── legal/
-│   └── LICENSE.md
-│
-├── assets/
-│   └── logo.svg
-│
-└── README.md
-```
+These materials are designed for **analysis, governance, and institutional review**, not for automation or prediction.
 
 ---
 
-## 🤝 Contact
+## What This Repository Is
 
-For licensing, certification, or collaboration inquiries:
-**Hollow House Institute — Founder: Amy Pierce Bui**
+- A standards and frameworks reference library  
+- A governance and ethics documentation source  
+- A licensed institutional and research resource  
 
-CTRL + O     (save)
-ENTER
-CTRL + X     (exit)
+---
 
+## What This Repository Is Not
+
+- Not a software product  
+- Not a machine learning model  
+- Not an automation system  
+- Not a clinical, therapeutic, or diagnostic resource  
+- Not a compliance certification authority  
+
+---
+
+## Intended Use
+
+Materials are intended for:
+
+- academic and institutional research  
+- ethical review and governance processes  
+- documentation and benchmarking  
+- licensed analytical and audit work  
+
+---
+
+## Licensing & Governance
+
+All materials are governed under Hollow House Institute licensing.
+
+- Use is **non-commercial by default**
+- Commercial, operational, or applied use requires **explicit authorization**
+- Attribution is required where applicable
+
+### Prohibited Uses
+
+- surveillance or profiling systems  
+- coercive or manipulative applications  
+- automated behavioral prediction  
+- training proprietary models without authorization  
+- clinical, therapeutic, or diagnostic use  
+
+---
+
+## Relationship to Other Hollow House Resources
+
+This repository complements:
+
+- licensed datasets
+- vector mapping services
+- ethical and relational audits
+- institutional governance work
+
+For licensing, services, or institutional access, refer to:  
+https://github.com/hollowhouseinstitute
+
+---
+
+Hollow House Institute  
+Ethical AI · Relational Intelligence · Governed Analysis
