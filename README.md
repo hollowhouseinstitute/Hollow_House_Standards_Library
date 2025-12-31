@@ -81,10 +81,15 @@ This repository complements:
 - ethical and relational audits
 - institutional governance work
 
-For licensing, services, or institutional access, refer to:  
-https://github.com/hollowhouseinstitute
-
 ---
 
-Hollow House Institute  
-Ethical AI · Relational Intelligence · Governed Analysis
+
+Hollow House Institute
+Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute
+Structured Human Intelligence
+
+Website: https://hollowhouseinstitute.com
+Datasets: https://hollowhouseinstitute.com/datasets
+Licensing: https://hollowhouseinstitute.com/licensing
+
+Contact: data@hollowhouseinstitute.com
